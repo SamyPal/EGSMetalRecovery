@@ -1,0 +1,7 @@
+PH,Temperature,Brine origin,Energy input [kWh/m^3],Ca [mg/L],Mg [mg/L],Salinity [g/L],Fe [mg/L],Al [mg/L],Li [mg/L],Cu [mg/L],Energy input [kWh/kg metal rem.],Ewe,Ca + Mg [mg/L]
+3,20,ICELAND,0.19,1750,5,30,0,180,0,0,2.1,0.35,1755
+3,50,ICELAND,0.09,1750,5,30,0,180,0,0,5.17,0.35,1755
+3,20,BELGIUM,2.1,10000,600,30,50,0,0,15,3.4,0.35,10600
+3,50,BELGIUM,1.96,10000,600,30,50,0,0,15,11.5,0.35,10600
+3,20,ENGLAND,0.96,1000,50,30,800,0,0,0,11.4,0.35,1050
+3,50,ENGLAND,1.15,1000,50,30,800,0,0,0,26.4,0.35,1050
